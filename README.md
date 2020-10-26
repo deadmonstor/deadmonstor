@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Josh</h1>
+<h3 align="center">2nd Year Computer Games Development student at Staffordshire University.</h3>
 
-<!--
-**deadmonstor/deadmonstor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://twitter.com/deadmonstors" target="blank"><img src="https://img.shields.io/twitter/follow/deadmonstors?logo=twitter&style=for-the-badge" alt="deadmonstors" /></a> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **my university studies**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **C++, C#**
+
+- 👨‍💻 All of my projects are available at [http://joshmobley.dev/](http://joshmobley.dev/)
+
+- 📝 I regulary write articles on [http://joshmobley.dev/](http://joshmobley.dev/)
+
+- 📫 How to reach me **joshuamobley14@gmail.com**
+
+- 📄 Know about my experiences [http://joshmobley.dev/](http://joshmobley.dev/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/deadmonstors" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="deadmonstors" height="30" width="40" /></a>
+</p>
