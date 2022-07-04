@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
-<h3 align="center">2nd Year Computer Games Development student at Staffordshire University.</h3>
+<h3 align="center">3rd Year Computer Games Development student at Staffordshire University. Previously @Playground-Games working on @Fable</h3>
 
 <p align="left"> <a href="https://twitter.com/deadmonstors" target="blank"><img src="https://img.shields.io/twitter/follow/deadmonstors?logo=twitter&style=for-the-badge" alt="deadmonstors" /></a> </p>
 
