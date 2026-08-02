@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
-<h3 align="center">Software Engineer Level 1 @FlixInteractive
+<h3 align="center">Software Engineer @FlixInteractive
   
 Games Development Graduate at Staffordshire University
 </h3>
